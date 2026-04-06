@@ -1,7 +1,7 @@
 Print imagens desktop:
-![print](images/imagem1.png)
-![print](images/imagem2.png)
+![print](imagem1.png)
+![print](imagem2.png)
 
 Print imagens mobile:
-![print](images/imagem3.png)
-![print](images/imagem4.png)
+![print](imagem3.png)
+![print](imagem4.png)
